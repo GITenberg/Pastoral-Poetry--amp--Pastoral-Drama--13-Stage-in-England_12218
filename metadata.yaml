@@ -1,0 +1,39 @@
+_repo: Pastoral-Poetry--amp--Pastoral-Drama--13-Stage-in-England_12218
+_version: 0.0.1
+alternative_title: Pastoral Poetry and Pastoral Drama
+creator:
+  author:
+    agent_name: Greg, W. W. (Walter Wilson)
+    aliases:
+    - Greg, Walter W. (Walter Wilson)
+    - Greg, Walter Wilson, Sir
+    birthdate: 1875
+    deathdate: 1959
+    gutenberg_agent_id: '4263'
+    url: http://www.gutenberg.org/2009/agents/4263
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12218'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- Early modern, 1500-1700 -- History and criticism'
+- !lcsh 'Pastoral poetry -- History and criticism'
+- !lcsh 'English drama -- Early modern and Elizabethan, 1500-1600 -- History and criticism'
+- !lcsh 'Country life in literature'
+- !lcc 'PR'
+- !lcsh 'Pastoral poetry, English -- History and criticism'
+- GITenberg
+tableOfContents: 'Preface -- Foreign pastoral poetry -- Pastoral poetry in England
+  -- Italian pastoral drama -- Dramatic origins of the English pastoral drama -- The
+  three masterpieces: I. Fletcher''s Faithful shepherdess. II. Randolph''s Amyntas.
+  III. Jonson''s Sad shepherd -- The English pastoral drama -- Masques and general
+  influence -- Appendix: I. On the origin and development of the Italian pastoral
+  drama. II. Bibliography.'
+title: "Pastoral Poetry & Pastoral Drama\r\nA Literary Inquiry, with Special Reference\
+  \ to the Pre-Restoration\r\nStage in England"
+url: http://www.gutenberg.org/ebooks/12218
