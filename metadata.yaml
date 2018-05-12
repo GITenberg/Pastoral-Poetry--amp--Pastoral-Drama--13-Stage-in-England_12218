@@ -1,6 +1,9 @@
 _repo: Pastoral-Poetry--amp--Pastoral-Drama--13-Stage-in-England_12218
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Pastoral Poetry and Pastoral Drama
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Greg, W. W. (Walter Wilson)
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '4263'
     url: http://www.gutenberg.org/2009/agents/4263
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12218#Pastoral-Poetry--amp--Pastoral-Drama--13-Stage-in-England
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
